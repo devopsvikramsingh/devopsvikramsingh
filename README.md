@@ -1,4 +1,27 @@
-Hey 
+# 👋 Hi, I'm Ashu Rawat  
+
+**A passionate Software Developer | Flutter & Full-Stack Enthusiast | Lifelong Learner from India**  
+
+📧 **Email Me:** aashurawat2003@gmail.com  
+🔗 **GitHub:**   
+💼 **LinkedIn:**   
+
+---
+
+- 🚀 **I’m currently working on:** Mobile & Web Development projects using Flutter and Python  
+- 📚 **I’m currently learning:** Advanced Flutter, Backend Development, and Cloud Integration  
+- 🤝 **I’m looking to collaborate on:** Open-source projects and innovative app ideas  
+- ❓ **I’m looking for help with:** Scaling Flutter apps & mastering DevOps tools  
+- 💬 **Ask me about:** Flutter, Python, Git, GitHub, and Full-Stack Roadmaps  
+- 📫 **How to reach me:** aashurawat2003@gmail.com  
+- 😄 **Pronouns:**
+- ⚡ **Fun fact:** I love building projects that solve real-world problems 🚀  playing with code.
+
+---
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devopsvikramsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashurawat2003@gmail.com) 
 
@@ -9,8 +32,6 @@ Hey
 ![](https://nirzak-streak-stats.vercel.app/?user=devopsvikramsingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devopsvikramsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devopsvikramsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
